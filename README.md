@@ -1,6 +1,15 @@
-### Hi there 👋
-### HyeongHu,Kim (1998.03.21)
-## 
+### 
+# **HyeongHu,Kim (1998.03.21)**
+---
+## How to reach me
+### blog: <https:blog.naver.com/dcfjk1234>
+### instagram : <https://www.instagram.com/hu_hyung0321>
+### E-mail : kimjinsyll@gmail.com
+---
+## I’m currently learning ...
+- Python
+- R
+- MySQL
 
 <!--
 **Shaerrr/Shaerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
