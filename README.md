@@ -1,5 +1,7 @@
 ### 
 # **HyeongHu,Kim (1998.03.21)**
+#### Seoul, Republic of Korea
+#### Hongik university(major : management)
 ---
 ## How to reach me
 ### blog: <https:blog.naver.com/dcfjk1234>
@@ -10,6 +12,7 @@
 - Python
 - R
 - MySQL
+---
 
 <!--
 **Shaerrr/Shaerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
