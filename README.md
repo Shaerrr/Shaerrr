@@ -8,7 +8,7 @@
 ### instagram : <https://www.instagram.com/hu_hyung0321>
 ### E-mail : kimjinsyll@gmail.com
 ---
-## I’m currently learning ...
+## 🌱 I’m currently learning ...
 - Python
 - R
 - MySQL
