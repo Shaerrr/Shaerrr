@@ -1,7 +1,7 @@
 ### 
-# **HyeongHu,Kim (1998.03.21)**
-#### Seoul, Republic of Korea
-#### Hongik university(major : management)
+# **HyugHu,Kim (1998.03.21)**
+#### ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seoul,+Republic+of+Korea;Hongik+university+Bachelors'degree+major+management)
+#### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaerrr&show_icons=true&theme=radical) 
 ---
 ## How to reach me
 ### blog: 📝 <https://blog.naver.com/dcfjk1234>   ✏️ <https://huhulog.tistory.com/>
@@ -11,7 +11,7 @@
 ## 🌱 I’m currently learning ...
 - Python
 - R
-- MySQL
+- SQL
 ---
 
 <!--
