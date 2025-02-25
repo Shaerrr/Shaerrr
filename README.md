@@ -1,5 +1,5 @@
 ### 
-# **HyugHu,Kim (1998.03.21)**
+# **![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=HyungHu,Kim%201998.03.21&fontSize=70)**
 #### ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seoul,+Republic+of+Korea;Hongik+university+Bachelors'degree+major+management)
 #### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaerrr&show_icons=true&theme=radical) 
 ---
