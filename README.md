@@ -4,7 +4,7 @@
 #### Hongik university(major : management)
 ---
 ## How to reach me
-### blog: <https://blog.naver.com/dcfjk1234>  <https://huhulog.tistory.com/>
+### blog: 📝 <https://blog.naver.com/dcfjk1234>   ✏️ <https://huhulog.tistory.com/>
 ### instagram : <https://www.instagram.com/hu_hyung0321>
 ### E-mail : kimjinsyll@gmail.com
 ---
