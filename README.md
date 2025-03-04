@@ -17,7 +17,7 @@
 ## 🌱 I’m currently learning ...
 - <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=ffffff"/></a> 
 - <img src="https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=ffffff"/></a>
-- Tabelau
+- Tableau
 ---
 
 <!--
