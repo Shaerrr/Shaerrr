@@ -2,6 +2,12 @@
 # **![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=HyungHu,Kim%201998.03.21&fontSize=70)**
 #### ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seoul,+Republic+of+Korea;Hongik+university+Bachelors'degree+major+management)
 ---
+## 🧑🏻‍💻portfolio
+
+
+[<img src="https://img.shields.io/badge/Visit_My_Portfolio-Slate?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://shaerrr.github.io/)
+
+---
 ## 📚 Stack
 - <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=ffffff"/></a>
 - <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=ffffff"/></a>
